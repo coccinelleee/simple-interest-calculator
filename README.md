@@ -18,4 +18,4 @@ Simple Interest = (Principal * Rate * Time) / 100
 
 ## Author
 
-Almas Nurbayev
+Murat Dilnaz
